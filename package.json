@@ -1,0 +1,19 @@
+{
+  "name": "pair-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
