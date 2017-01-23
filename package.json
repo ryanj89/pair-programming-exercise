@@ -1,7 +1,6 @@
 {
   "name": "pair-programming",
   "version": "1.0.0",
-  "description": "",
   "main": "code.js",
   "directories": {
     "test": "test"
@@ -9,11 +8,23 @@
   "dependencies": {
     "chai": "^3.5.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
   "scripts": {
     "test": "mocha"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanefaison2/pair-programming-exercise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lanefaison2/pair-programming-exercise/issues"
+  },
+  "homepage": "https://github.com/lanefaison2/pair-programming-exercise#readme",
+  "description": ""
 }
